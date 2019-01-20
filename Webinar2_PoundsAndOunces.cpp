@@ -4,7 +4,7 @@
 #include "pch.h"
 #include <iostream>
 using namespace std;
-const int OUNCES_PER_POUND = 16
+const int OUNCES_PER_POUND = 16;
 int main()
 {
 	int item1Pounds, item1Ounces;
